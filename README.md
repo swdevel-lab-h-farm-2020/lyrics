@@ -18,3 +18,4 @@ Possessing and caressing me.
 
 Note that the project requires the ```json``` and ```requests``` modules to run.
 
+Special thanks to Chris Forette (https://github.com/chrisforrette). 
