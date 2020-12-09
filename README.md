@@ -1,20 +1,11 @@
-## Implementation of a Song Lyrics Fetcher
+## Implementation of a Get the lyrics code
 
+Note that the project requires the ```json``` and ```requests``` modules to run
 
-In this repository you can find a file named ```lyrics.py``` that implements the ```get_lyric( artist, title)``` function. It queries the [lyrics.ovh](https://lyricsovh.docs.apiary.io/#) website to fetch the lyrics of a song ```title``` by the specified ```artist```.
-If you run the program, executing the main file with: ```python main.py``` it will give you results similar to the following: 
+In this repository you can find a file named ```main.py``` that contains the code required to get the lyrics of a song. 
 
-```
-$ python main.py
-Across the Universe by Beatles:
-Words are flowing out like 
-Endless rain into a paper cup
-They slither wildly as they slip away across the universe.
-Pools of sorrow waves of joy
-Are drifting through my opened mind
-Possessing and caressing me.
-...
-```
+The output will be processed from [lyrics.ovh] website  using API tehcnology. The user will get the lyrics of a song specifying ```title``` and ```artist```.
+To run the program, execute the main file with ```python main.py```command. 
 
 Note that the project requires the ```json``` and ```requests``` modules to run.
 
